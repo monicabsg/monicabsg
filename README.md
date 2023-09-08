@@ -1,6 +1,6 @@
-### print('Hola, mundo!') 👋
+# print('Hola, mundo!') 👋
 
-# Sobre mi
+### Sobre mi
 + ⚡ Egresada de Ingeniería en computación, especializada en administración de proyectos informáticos y de redes. 
 + ⚡ Becaria de Nissan School en IS SCM. 
 + ⚡ Aprendiendo sobre HTML, CSS y programación web con [Technolochicas](https://tecnolochicas.mx/)
